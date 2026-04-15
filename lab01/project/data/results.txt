@@ -1,0 +1,16 @@
+Вариант 19
+k = 10.0
+n = 3.4
+x1 = 2.272727
+x2 = 4.166667
+sqrt(n^2 - 1) = 3.249615
+
+Случай 1:
+theta_intersection = 0.785398
+r_intersection = 2.894088
+point = (2.046429, 2.046429)
+
+Случай 2:
+theta_intersection = 2.356194
+r_intersection = 22.622464
+point = (-15.996498, 15.996498)
